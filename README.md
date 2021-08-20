@@ -3,4 +3,4 @@
  
  **Known Issues**
  
- 1. Image Validation - Create/Update product forms will not submit unless image has been selected. Image validation has been commented out.
+1. Image Validation - Create/Update product forms will not submit unless image has been selected. Image validation has been commented out.
