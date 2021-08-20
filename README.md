@@ -1,6 +1,6 @@
 # vme-technical-test-aug-2021
  A Laravel TALL Stack technical project for VME
  
- **Known Issues**
+**Known Issues**
  
-1. Image Validation - Create/Update product forms will not submit unless image has been selected. Image validation has been commented out.
+Image Validation - Create/Update product forms will not submit unless image has been selected. Image validation has been commented out.
